@@ -6,7 +6,6 @@ For further informations see:
 http://wiki.eclipse.org/Jetty/Reference/jetty.xml_syntax
 http://wiki.eclipse.org/Jetty/Reference/jetty.xml
 -->
-
 <Configure id="Fuseki" class="org.eclipse.jetty.server.Server">
 	<Call name="addConnector">
 		<Arg>
